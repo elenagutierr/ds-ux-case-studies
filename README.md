@@ -7,6 +7,8 @@ translate results into recommendations and next steps.
 ## Case studies
 - **Remote A/B-style experiment: incentives and information retention**
   - [case-studies/remote-ab-test.md](case-studies/remote-ab-test.md)
+- **Retrospective causal analysis (event study): how experience changes decision strategy**
+  - [case-studies/retrospective-event-study.md](case-studies/retrospective-event-study.md)
 
 ## What you’ll see in each case study
 - Problem framing and decision to make
