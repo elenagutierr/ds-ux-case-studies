@@ -105,7 +105,7 @@ Run a smaller pilot comparing the *simplified reward UX* vs the original reward 
 
 ---
 
-## 11) How this reflects my UX process
+## 11) How this reflects my research process
 - Start with a decision and constraints, not methods
 - Choose the lightest method that can answer the question causally
 - Design for remote data quality (screening, baselines, guardrails)
