@@ -1,5 +1,5 @@
 # UX / Data Science Research Decision Memo 
-## Retrospective causal analysis: How experience changes decision strategy (model-based event study)
+## Retrospective causal event study: How experience changes decision strategy 
 
 **Role**: Research lead (study framing and design, data collection, modelling approach, analysis, insight narrative)  
 **Methods**: Retrospective analysis, quasi-experimental event study, longitudinal modelling, model comparison (BIC/Schwarz weights)  
