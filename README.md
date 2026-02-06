@@ -1,11 +1,11 @@
 # Data Science + UX Research Case Studies
 
-This repo contains anonymized, product-style decision memos that show how I frame problems,
+This repo contains anonymised, product-style decision memos that show how I frame problems,
 choose methods, define metrics and guardrails, run studies (remotely and in person), and 
 translate results into recommendations and next steps.
 
 ## Case studies
-- **Remote A/B-style experiment: incentives and information detection**
+- **Remote A/B-style experiment: incentives and information retention**
   - [case-studies/remote-ab-test.md](case-studies/remote-ab-test.md)
 
 ## What you’ll see in each case study
