@@ -1,6 +1,6 @@
 # Data Science + UX Research Case Studies
 
-This repo contains anonymised, product-style decision memos that show how I frame problems,
+This repo contains anonymised decision memos that show how I frame problems,
 choose methods, define metrics and guardrails, run studies (remotely and in person), and 
 translate results into recommendations and next steps.
 
